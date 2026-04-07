@@ -29,7 +29,7 @@ jobs:
 
       - name: NPM install and run safe-settings full sync
         run: npm install
-        working-directory: $SAFE_SETTINGS_CODE_DIR
+        working-directory: .
 
       - name: Run safe-settings full sync
         run: npm run full-sync
