@@ -5,11 +5,11 @@
 # restrictedRepos: ['admin', '.github', 'safe-settings']
 
 restrictedRepos:
-  # exclude: # Only used if the include field is empty
-  #   - admin
-  #   - .github
-  #   - safe-settings
-  #   - admin-*
+  exclude: # Only used if the include field is empty
+    - admin
+    - .github
+    - safe-settings
+    - admin-*
   include:
     - new-azureai-*
 
