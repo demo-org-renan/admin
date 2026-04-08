@@ -11,7 +11,7 @@ restrictedRepos:
     - safe-settings
     - admin-*
   include:
-    - arc-*
+    - new-azureai-*
 
 configvalidators:
   - plugin: collaborators
