@@ -5,14 +5,13 @@
 # restrictedRepos: ['admin', '.github', 'safe-settings']
 
 restrictedRepos:
-  exclude: 
+  exclude: # Only used if the include field is empty
     - admin
     - .github
     - safe-settings
     - admin-*
   include:
-    - docs
-    - core-*
+    - arc-*
 
 configvalidators:
   - plugin: collaborators
