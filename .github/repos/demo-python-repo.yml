@@ -6,11 +6,12 @@
 
 repository:
   description: Demo application repository managed by safe-settings
-  homepage: https://renan-org.github.io/demo-app
+  homepage: https://github.com/demo-org-renan/super-python
   has_wiki: true
   topics:
     - demo
     - safe-settings
+    - python
 
 # Add repo-specific labels on top of the org defaults
 labels:

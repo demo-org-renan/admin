@@ -8,8 +8,8 @@ repository:
 
   # Enable vulnerability alerts (Dependabot)
   security:
-    enableVulnerabilityAlerts: false
-    enableAutomatedSecurityFixes: false
+    enableVulnerabilityAlerts: true
+    enableAutomatedSecurityFixes: true
 
   # Repositories are private by default
   private: true
