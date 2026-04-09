@@ -8,7 +8,7 @@ repository:
   force_create: true
   private: true
   description: Demo application repository managed by safe-settings
-  homepage: https://github.com/demo-org-renan/python-repo
+  homepage: https://github.com/demo-org-renan/super-python
   has_wiki: true
   topics:
     - demo
