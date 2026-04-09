@@ -5,6 +5,8 @@
 # See https://github.com/github/safe-settings for full documentation.
 
 repository:
+  force_create: true
+  private: true
   description: Demo application repository managed by safe-settings
   homepage: https://github.com/demo-org-renan/super-python
   has_wiki: true
