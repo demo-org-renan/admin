@@ -4,7 +4,7 @@
 # Default repository settings applied to every repo in the org
 repository:
   # A short description applied to repositories by default
-  description: Persistent configuration via safe-settings
+  description: Configured via safe-settings
 
   # Enable vulnerability alerts (Dependabot)
   security:
@@ -18,7 +18,7 @@ repository:
   # Enable common collaboration features
   has_issues: true
   has_projects: false
-  has_wiki: false
+  has_wiki: true
 
   # Default branch name
   default_branch: main
