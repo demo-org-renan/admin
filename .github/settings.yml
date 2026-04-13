@@ -4,7 +4,7 @@
 # Default repository settings applied to every repo in the org
 repository:
   # A short description applied to repositories by default
-  description: Configured via safe-settings
+  description: Configured via safe-settings (DEMO)
 
   # Enable vulnerability alerts (Dependabot)
   security:
